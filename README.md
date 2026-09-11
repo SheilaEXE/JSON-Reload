@@ -27,6 +27,10 @@ You can change the key through Generic Mod Config Menu. You can also run `json_r
 
 Json Reload reports invalid JSON in the SMAPI console instead of attempting to reload the affected pack.
 
+### Example
+
+You notice that a Content Patcher mod is not available in your language, or you forgot to add your translation file before starting the game. Add the translation file to the mod's `i18n` folder, return to the game, and press the reload key. Json Reload updates the content pack without requiring you to restart the game.
+
 ## What can be reloaded
 
 - Content Patcher JSON files
