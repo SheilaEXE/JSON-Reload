@@ -6,6 +6,9 @@
   "UniqueID": "NatrollEXE.JsonReload",
   "EntryDll": "JsonReload.dll",
   "MinimumApiVersion": "4.5.0",
+  "UpdateKeys": [
+    "Nexus:52159"
+  ],
   "Dependencies": [
     {
       "UniqueID": "Pathoschild.ContentPatcher",
