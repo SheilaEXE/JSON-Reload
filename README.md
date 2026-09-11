@@ -2,7 +2,7 @@
 
 Reload changed Content Patcher JSON files without restarting Stardew Valley.
 
-Json Reload is a small tool for mod authors and translators. Press one key and it finds the loaded content packs you changed, validates their JSON, and reloads only those packs.
+Json Reload is a small utility tool. Press one key and it finds the loaded content packs you changed, validates their JSON, and reloads only those packs.
 
 ## Requirements
 
